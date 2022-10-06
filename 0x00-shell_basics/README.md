@@ -11,3 +11,4 @@ And hidden files (starting with .)
 #!/bin/bash mkdir tmp/my_first_directory/:creates a directory named my_first_directory in the /tmp/ directory
 #!/bin/bash mv /tmp/betty /tmp/my_first_directory:Move the file betty from /tmp/ to /tmp/my_first_directory
 #!/bin/bash rm /tmp/my_first_directory/betty
+#!/bin/bash rmdir /tmp/my_first_directory: Bye bye My first directory
