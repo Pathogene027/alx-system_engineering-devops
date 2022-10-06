@@ -3,3 +3,8 @@
 #!/bin/bash cd..:working directory to the user’s home directory
 #!/bin/bash ls -l: contents in a long format
 #!/bin/bash Display current directory contents, including hidden files (starting with .)
+#!/bin/bash ls -na: Long format
+
+with user and group IDs displayed numerically
+
+And hidden files (starting with .)
