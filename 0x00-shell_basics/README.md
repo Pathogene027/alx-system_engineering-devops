@@ -2,3 +2,4 @@
 #!/bin/bash ls: Display the contents list of your current directory
 #!/bin/bash cd..:working directory to the user’s home directory
 #!/bin/bash ls -l: contents in a long format
+#!/bin/bash Display current directory contents, including hidden files (starting with .)
