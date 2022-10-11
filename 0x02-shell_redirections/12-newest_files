@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . -atls | tail 
+ls . -at | tail 
