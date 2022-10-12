@@ -1,0 +1,4 @@
+#!/bin/bash
+$ find . -type f -iname "*.mp3" -execdir  sh -c 'printf "%s\n" "${0%.*}"' {} ';'| sort -k 1.1f,1.1
+
+
